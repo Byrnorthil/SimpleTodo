@@ -35,6 +35,7 @@ mp4 created with [AZ Screen Recorder](https://play.google.com/store/apps/details
 Describe any challenges encountered while building the app.
 My computer is old and cheap. Not only does it run Android Studio very slowly (each sync and build takes ~2 min) but it is incapable of running an emulator as it does not support hardware accelerated virualization.
 Upon attempting to create the GitHub project, the webpage was created successfully but no commit was made. After that, the webpage refused any pushes made from Android Studio.
+Because I ran my app on a physical device instead of an emulator, I was unable to create a gif and had to make an mp4 instead.
 
 ## License
 
